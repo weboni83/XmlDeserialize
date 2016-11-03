@@ -1,0 +1,6 @@
+c:\users\pc100\documents\visual studio 2013\Projects\ConsoleApplicationXmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.exe.config
+c:\users\pc100\documents\visual studio 2013\Projects\ConsoleApplicationXmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.exe
+c:\users\pc100\documents\visual studio 2013\Projects\ConsoleApplicationXmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.pdb
+c:\users\pc100\documents\visual studio 2013\Projects\ConsoleApplicationXmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleApplicationXmlDeserialize.csprojResolveAssemblyReference.cache
+c:\users\pc100\documents\visual studio 2013\Projects\ConsoleApplicationXmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleApplicationXmlDeserialize.exe
+c:\users\pc100\documents\visual studio 2013\Projects\ConsoleApplicationXmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleApplicationXmlDeserialize.pdb
