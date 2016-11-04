@@ -33,7 +33,7 @@ namespace ConsoleApplicationXmlDeserialize
                 xmlContent = xDoc.ToString();
             }
 
-            //스트링의 경우 se -> de
+            //스트링의 경우 Load -> deserialize
             using (TextReader reader = new StringReader(xmlContent))
             {   
                 XmlSerializer serializer = new XmlSerializer(typeof(MenuCollection.Application));
@@ -66,7 +66,11 @@ namespace ConsoleApplicationXmlDeserialize
                 // create an XmlSerializer for your class type
                 XmlSerializer xs = new XmlSerializer(typeof(MenuCollection.Application));
 
-                xs.Serialize(tw, application);
+                // removes namespace
+                var xmlns = new XmlSerializerNamespaces();
+                xmlns.Add(string.Empty, string.Empty);
+
+                xs.Serialize(tw, application, xmlns);
 
                 Console.WriteLine("NewMenu.xml 생성 완료");
             }
