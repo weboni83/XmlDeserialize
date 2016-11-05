@@ -10,3 +10,9 @@ D:\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleAppli
 D:\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.exe
 D:\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.pdb
 D:\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleApplicationXmlDeserialize.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.exe.config
+C:\Users\J\Documents\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleApplicationXmlDeserialize.exe
+C:\Users\J\Documents\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleApplicationXmlDeserialize.pdb
+C:\Users\J\Documents\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.exe
+C:\Users\J\Documents\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\bin\Debug\ConsoleApplicationXmlDeserialize.pdb
+C:\Users\J\Documents\GitHub\XmlDeserialize\ConsoleApplicationXmlDeserialize\obj\Debug\ConsoleApplicationXmlDeserialize.csprojResolveAssemblyReference.cache

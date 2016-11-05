@@ -52,6 +52,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="OutXml\Menu.xml" />
+    <Content Include="OutXml\MenuList.xml" />
     <Content Include="Xml\Menu.xml" />
     <Content Include="Xml\ZF0110.srf" />
     <Content Include="Xml\ZF0120.srf" />
@@ -175,6 +177,7 @@
     <Content Include="Xml\ZF1708.srf" />
     <Content Include="Xml\ZF1709.srf" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

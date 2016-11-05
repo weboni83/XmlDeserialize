@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+    <Menus>
+        <Action type="add">
+            <Menu Checked="0" Enabled="1" FatherUID="43520" Position="1" String="QPL" Type="2" UniqueID="ZF0000" Image="{CURRENTDIRECTORY}\co.bmp">
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="1" String="기준정보" Type="2" UniqueID="ZF00001">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="1" String="창고마스터 관리" Type="1" UniqueID="_11523" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="2" String="품목마스터 관리" Type="1" UniqueID="_3073" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="3" String="거래처마스터 관리" Type="1" UniqueID="_2561" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="4" String="가격리스트" Type="1" UniqueID="_3076" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="5" String="기종정보" Type="2" UniqueID="ZF0100">
+                                        <Menus>
+                                            <Action type="add">
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0100" Position="10" String="분류등록" Type="1" UniqueID="ZF0110Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0100" Position="20" Type="1" UniqueID="ZF0120Z" string="기종등록" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0100" Position="30" String="그룹등록" Type="1" UniqueID="ZF0130Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0100" Position="40" String="옵션유형" Type="1" UniqueID="ZF0140Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0100" Position="50" String="옵션코드" Type="1" UniqueID="ZF0150Z" />
+                                            </Action>
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="6" String="품목정보" Type="2" UniqueID="ZF0200">
+                                        <Menus>
+                                            <Action type="add">
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0200" Position="10" String="제품유형등록" Type="1" UniqueID="ZF0410Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0200" Position="20" Type="1" UniqueID="ZF0420Z" string="자재종류등록" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0200" Position="30" String="자재등급등록" Type="1" UniqueID="ZF0430Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0200" Position="40" String="검사상대물등록" Type="1" UniqueID="ZF0440Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0200" Position="50" String="이슈코드등록" Type="1" UniqueID="ZF0450Z" />
+                                            </Action>
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="7" String="생산정보" Type="2" UniqueID="ZF0300">
+                                        <Menus>
+                                            <Action type="add">
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="10" Type="1" UniqueID="ZF0720Z" string="공정유형등록" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="20" String="공정그룹등록" Type="1" UniqueID="ZF0710Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="30" String="공정분류등록" Type="1" UniqueID="ZF0730Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="40" String="생산라인등록" Type="1" UniqueID="ZF0740Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="45" String="생산라인별창고등록" Type="1" UniqueID="ZF0745Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="50" String="생산방법등록" Type="1" UniqueID="ZF0750Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="60" String="작업형태등록" Type="1" UniqueID="ZF0760Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0300" Position="70" String="접수유형등록" Type="1" UniqueID="ZF0770Z" />
+                                            </Action>
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="8" String="외주정보" Type="2" UniqueID="ZF0400">
+                                        <Menus>
+                                            <Action type="add">
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0400" Position="10" Type="1" UniqueID="ZF0722Z" string="입/출고유형등록" />
+                                            </Action>
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="9" String="품질정보" Type="2" UniqueID="ZF0500">
+                                        <Menus>
+                                            <Action type="add">
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0500" Position="10" Type="1" UniqueID="ZF1210U" string="검사유형 등록" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0500" Position="20" String="검사장비 등록" Type="1" UniqueID="ZF1220U" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0500" Position="30" String="검사결과유형 등록" Type="1" UniqueID="ZF1230U" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0500" Position="40" String="불합격유형 등록" Type="1" UniqueID="ZF1240U" />
+                                            </Action>
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="10" String="영업정보" Type="2" UniqueID="ZF0600">
+                                        <Menus>
+                                            <Action type="add" />
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="11" String="생기정보" Type="2" UniqueID="ZF0700">
+                                        <Menus>
+                                            <Action type="add">
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0700" Position="10" String="JIG유형등록" Type="1" UniqueID="ZF1701U" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0700" Position="20" String="검사구분등록" Type="1" UniqueID="ZF1702U" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0700" Position="30" String="유효성평가항목등록" Type="1" UniqueID="ZF1703Z" />
+                                            </Action>
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00001" Position="12" String="계획정보" Type="2" UniqueID="ZF0800">
+                                        <Menus>
+                                            <Action type="add">
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0800" Position="10" String="생산라인정보 관리(현중)" Type="1" UniqueID="ZF0610U" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0800" Position="20" String="분류별항목관리" Type="1" UniqueID="ZF0640U" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0800" Position="30" String="스케쥴관리 재고창고 환경설정" Type="1" UniqueID="ZF0620U" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0800" Position="40" String="스케쥴관리 재고창고 지정" Type="1" UniqueID="ZF0630Z" />
+                                                <Menu Checked="0" Enabled="1" FatherUID="ZF0800" Position="50" String="납품관리 환경설정" Type="1" UniqueID="ZF0522Z" />
+                                            </Action>
+                                        </Menus>
+                                    </Menu>
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="2" String="계획관리" Type="2" UniqueID="ZF00002">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="10" String="예측" Type="1" UniqueID="_4360" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="30" Type="1" UniqueID="ZF0660Z" string="생산계획 등록(현중)" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="40" Type="1" UniqueID="ZF0661Z" string="생산일정 원천 조회(현중)" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="50" Type="1" UniqueID="ZF0662Z" string="조립서열계획 기준 생산스케쥴" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="60" Type="1" UniqueID="ZF0910Z" string="자재예시량 기준 생산스케쥴" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="20" String="생산계획 등록(자체)" Type="1" UniqueID="ZF0650Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="70" String="년 생산계획 등록(자체)" Type="1" UniqueID="ZF0670Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="80" Type="1" UniqueID="ZF0680Z" string="년 생산계획 등록(현중)" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00002" Position="90" Type="1" UniqueID="ZF0690Z" string="년 생산계획 조회" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="3" String="영업관리" Type="2" UniqueID="ZF00003">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00003" Position="30" String="판매오더" Type="1" UniqueID="_2050" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00003" Position="40" String="납품" Type="1" UniqueID="_2051" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00003" Position="50" String="반품" Type="1" UniqueID="_2052" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00003" Position="60" String="AR 송장" Type="1" UniqueID="_2053" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="4" String="구매/자재관리" Type="2" UniqueID="ZF00004">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="10" String="구매오더" Type="1" UniqueID="_2305" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="20" String="입고" Type="1" UniqueID="_2306" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="30" String="반품" Type="1" UniqueID="_2307" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="40" String="AP 송장" Type="1" UniqueID="_2308" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="50" String="자재 미입고 조회" Type="1" UniqueID="ZF1010Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="60" String="자재 총 소요량 조회" Type="1" UniqueID="ZF0820Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="70" String="월간 자재소요량 조회" Type="1" UniqueID="ZF0830Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="80" String="소요량 계산" Type="1" UniqueID="ZF0861Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="90" String="자재재고조회" Type="1" UniqueID="ZF0716Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="100" String="BOM조회" Type="1" UniqueID="ZF0840Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="100" String="재고이전" Type="1" UniqueID="_3080" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00004" Position="100" String="재고이전 요청" Type="1" UniqueID="_3088" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="5" String="설계관리" Type="2" UniqueID="ZF00005">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00005" Position="10" String="기종BOM등록" Type="1" UniqueID="ZF0210Z_01" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00005" Position="20" String="커넥터BOM등록" Type="1" UniqueID="ZF0220Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00005" Position="30" String="설계정보관리" Type="1" UniqueID="ZF0310Z_02" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00005" Position="40" String="BOM조회" Type="1" UniqueID="#ZF0840Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00005" Position="50" String="설계변경 계획반영 시점관리(현중)" Type="1" UniqueID="ZF0667U" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00005" Position="60" String="BOM정전개" Type="1" UniqueID="ZF0851Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00005" Position="70" String="BOM역전개" Type="1" UniqueID="ZF0852Z" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="6" String="생산관리" Type="2" UniqueID="ZF00006">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00006" Position="10" String="생산오더등록" Type="1" UniqueID="_4369" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00006" Position="20" String="생산오더조회" Type="1" UniqueID="ZF0701Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00006" Position="30" Type="1" UniqueID="ZF0796Z" string="생산일보등록" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00006" Position="40" Type="1" UniqueID="ZF0799Z" string="생산일보조회" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00006" Position="50" Type="1" UniqueID="ZF0702Z" string="공정별진행현황" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="7" String="외주관리" Type="2" UniqueID="ZF00007">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="10" String="외주출고등록" Type="1" UniqueID="ZF0703Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="20" Type="1" UniqueID="ZF0704Z" string="외주출고조회" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="30" Type="1" UniqueID="ZF0706Z" string="외주입고등록" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="40" Type="1" UniqueID="ZF0713Z" string="외주입고조회" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="50" Type="1" UniqueID="ZF0705Z" string="외주의뢰현황" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="60" Type="1" UniqueID="ZF0712Z" string="외주수불조회" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="70" String="창고(외주)별제품재고조회" Type="1" UniqueID="ZF0715Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00007" Position="80" String="비즈니스 파트너에 대한 특별가격" Type="1" UniqueID="_11777" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="8" String="품질관리" Type="2" UniqueID="ZF00008">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00008" Position="10" Type="1" UniqueID="ZF1310Z" string="실시간 검사 조회" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00008" Position="20" Type="1" UniqueID="ZF1320Z" string="하닉스 검사품 등록" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00008" Position="30" Type="1" UniqueID="ZF1330Z" string="PIN 검사품 등록" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00008" Position="40" Type="1" UniqueID="ZF1340Z" string="검사품목 승인" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="9" String="납품관리" Type="2" UniqueID="ZF00009">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00009" Position="10" Type="1" UniqueID="ZF1510Z" string="제품포장등록" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00009" Position="20" String="납품일정 등록(현중)" Type="1" UniqueID="ZF0510Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00009" Position="30" Type="1" UniqueID="ZF0520Z" string="납품처리(현중)" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00009" Position="40" Type="1" UniqueID="ZF0540Z" string="납기일정 조회(현중)" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF00009" Position="50" String="제품(통합)재고조회" Type="1" UniqueID="ZF0714Z" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="10" String="생기관리" Type="2" UniqueID="ZF000010">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000010" Position="10" String="생산JIG" Type="1" UniqueID="ZF1707Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000010" Position="20" String="생산JIG조회" Type="1" UniqueID="ZF1709Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000010" Position="30" String="검사JIG" Type="1" UniqueID="ZF1704Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000010" Position="40" String="검사JIG조회" Type="1" UniqueID="ZF1706Z" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="11" String="공용리포트" Type="2" UniqueID="ZF000011">
+                            <Menus>
+                                <Action type="add">
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="10" String="창고(외주)별제품재고조회" Type="1" UniqueID="#ZF0715Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="20" String="제품(통합)재고조회" Type="1" UniqueID="#ZF0714Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="30" String="자재재고조회" Type="1" UniqueID="#ZF0716Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="40" String="BOM조회" Type="1" UniqueID="#1ZF0840Z" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="50" Type="1" UniqueID="#ZF0702Z" string="공정별진행현황" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="60" Type="1" UniqueID="#ZF0662Z" string="조립서열계획 기준 생산스케쥴" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="70" Type="1" UniqueID="#ZF0910Z" string="자재예시량 기준 생산스케쥴" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="80" Type="1" UniqueID="#ZF0690Z" string="년 생산계획 조회" />
+                                    <Menu Checked="0" Enabled="1" FatherUID="ZF000011" Position="90" Type="1" UniqueID="#ZF0540Z" string="납기일정 조회(현중)" />
+                                </Action>
+                            </Menus>
+                        </Menu>
+                    </Action>
+                </Menus>
+            </Menu>
+        </Action>
+        <Action type="add">
+            <Menu Checked="0" Enabled="1" FatherUID="ZF0000" Position="99" String="견적서" Type="2" UniqueID="ZF000012">
+                <Menus>
+                    <Action type="add">
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="1" String="견적 종류등록(*)" Type="1" UniqueID="ZF1110Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="2" String="견적 비율설정(*)" Type="1" UniqueID="ZF1120Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="3" String="견적 원재료비 그룹 등록(*)" Type="1" UniqueID="ZF1130Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="4" String="견적 가공비 그룹 등록(*)" Type="1" UniqueID="ZF1140Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="5" String="견적 부재료/노무비 등록(*)" Type="1" UniqueID="ZF1150Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="6" String="견적서 산출 등록(*)" Type="1" UniqueID="ZF1160Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="7" String="견적서 등록(*)" Type="1" UniqueID="ZF1170Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="8" String="견적서 초안 등록(*)" Type="1" UniqueID="ZF1180Z" />
+                        <Menu Checked="0" Enabled="1" FatherUID="ZF000012" Position="99" String="견적서 조회(*)" Type="1" UniqueID="ZF1190Z" />
+                    </Action>
+                </Menus>
+            </Menu>
+        </Action>
+    </Menus>
+</Application>
